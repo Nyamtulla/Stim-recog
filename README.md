@@ -10,7 +10,7 @@ We introduce a multi-model framework — *StimNet*, *Local StimNet*, *StimAuto*,
 
 ## 🔄 Workflow Overview
 
-![Workflow](images/workflow.png) <!-- Use Figure 1 from thesis -->
+![Workflow](Images/project_work_flow.jpg)
 
 ### 🗃️ 1. Dataset Collection and Cleaning
 - Based on SSBD + extended videos (ASDB).
@@ -45,7 +45,7 @@ We introduce a multi-model framework — *StimNet*, *Local StimNet*, *StimAuto*,
 | Local StimNet | 85.85%   | 85.85%   | 89.51%  |
 | StimAuto      | 75.28%   | 73.96%   | 76.43%  |
 
-![Model Comparison](images/boxplot_results.png) <!-- Use Figure 34 -->
+![Model Comparison](Images/Model_comparison.jpg) 
 
 - StimNet and StimViT consistently outperformed other models.
 - Confusion matrices and ROC plots across folds show robustness across classes.
